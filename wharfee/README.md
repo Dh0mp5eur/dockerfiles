@@ -1,4 +1,4 @@
-# Installation and running `wharfee
+# Installation and running `wharfee`
 
 ```
 $ docker pull dh0mp5eur/wharfee
